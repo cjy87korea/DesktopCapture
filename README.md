@@ -1,6 +1,5 @@
 # DesktopCapture RTSP Server
-RTSP Streaming(source: Desktop screen capture) Server using GStreamer
-Desktop screen capture(Windows OS) using GStreamer 
+RTSP Streaming(source: Windows 10 screen capture) Server using GStreamer
 
 <br>
 <br>
